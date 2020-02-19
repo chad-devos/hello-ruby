@@ -1,4 +1,3 @@
-# Cryptocurrency is all the rage. You have decided to create your own,
 # KelloggCoin, that will massively disrupt financial markets at the Global
 # Hub.
 
